@@ -1,0 +1,55 @@
+body {
+  background-color: black;
+  color: white;
+
+}
+
+h1 {
+
+  color: blue;
+  text-align: center;
+}
+p1 {
+  font-family: "Courier";
+  color: white;
+}
+h2 {
+  font-family: "Arial";
+  color: red;
+  text-align: center;
+  border: 2px solid yellow;
+}
+p2 {
+  font-family: "Times";
+  color: white;
+}
+#c1 {
+  color: red;
+}
+#c2 {
+  color: blue;
+}
+#c3 {
+  color: turquoise;
+  border: 0;
+}
+table{
+}
+
+#gamediv{
+}
+
+#boardTable{
+}
+
+#loginDiv{
+  box-sizing: border-box;
+  width: 30%;
+  border: 2px solid white;
+  margin: 10px;
+  padding: 10px;
+}
+
+img{
+	width: 30px;
+}
